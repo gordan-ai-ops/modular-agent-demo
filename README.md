@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gordan-ai-ops/modular-agent-demo/main/banner.png" alt="Modular Agent Banner" width="100%">
+</p>
 # modular-agent-demo
 Prototype AI agent using Python + prompt logic
 
